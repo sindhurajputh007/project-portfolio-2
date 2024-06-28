@@ -1,2 +1,2 @@
-"project portfolio 2"
+"project-portfolio-2"
 Lead scoring
